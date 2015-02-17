@@ -9,7 +9,7 @@ permalink: /teaching-coursework/
 ###Western Michigan University
 Biomedical Ethics (Summer & Fall 2012, Spring 2013)
 
->Using Bioethics by Louis Vaughn, the course covered various topics in Medical and Bio-Research ethics (e.g. Autonomy, Paternalism, Informed Consent, Distributive Justice, and Beginning and End of Life Issues). The course was primarily targeted at future medical professionals, including both ethical theory and case-based approaches.
+> Using Bioethics by Louis Vaughn, the course covered various topics in Medical and Bio-Research ethics (e.g. Autonomy, Paternalism, Informed Consent, Distributive Justice, and Beginning and End of Life Issues). The course was primarily targeted at future medical professionals, including both ethical theory and case-based approaches.
 
 ##Teaching Assistant
 
