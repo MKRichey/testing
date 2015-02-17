@@ -22,6 +22,7 @@ Biomedical Ethics | D. Paul (Fall 2011, Spring 2012)
 ##Graduate Coursework
 
 ###University of Rochester
+
 *Topics in Ethics (Realism and Reasons) | W. Fitzpatrick (Fall 2014)
 *Topics in Ancient Philosophy | D. Modrak (Fall 2014)
 *Metaphysics | A. Ney (Fall 2014)
@@ -33,6 +34,7 @@ Biomedical Ethics | D. Paul (Fall 2011, Spring 2012)
 *New Work in Virtue Ethics | W. Fitzpatrick (Fall 2013)
 
 ###Western Michigan University
+
 *Epistemology | M. Alspector-Kelly (Spring 2013)
 *Philosophy of Religion | T. McGrew (Spring 2013)
 *Abstract Objects | S. Cowling (Fall 2012)
@@ -47,9 +49,11 @@ Biomedical Ethics | D. Paul (Fall 2011, Spring 2012)
 ##Reading Groups
 
 ###University of Rochester
+
 *Scrutibility/Structuralism (David Chalmers/Steven French) | A. Ney (Summer 2014)
 *Metaphysics (David Lewis) | A. Ney (Fall 2013)
 
 ###Western Michigan University
+
 *Philosophy of Physics (Spring 2012)
 *Physicalism | S. Cowling (Fall 2012)
